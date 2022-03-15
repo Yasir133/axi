@@ -20,6 +20,6 @@ git clone https://github.com/Yasir133/axi
 
 cd axi
 
-git pull (Use This Command For Update)
+git pull
 
 python2 axi
